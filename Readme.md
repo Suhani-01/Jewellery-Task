@@ -72,38 +72,26 @@ Admin Panel (login required): http://localhost:3000/admin/products
 
 ## Screenshots
 
-### 1. One
+### 1. get all the products
 ![One](screenshots/one.png)
 
-### 2. Two
+### 2. get products by  id
 ![Two](screenshots/two.png)
 
-### 3. Three
+### 3. register
 ![Three](screenshots/three.png)
 
-### 4. Four
+### 4. get your credential
 ![Four](screenshots/four.png)
 
-### 5. Five
+### 5. login
 ![Five](screenshots/five.png)
 
-### 6. Six
-![Six](screenshots/six.png)
-
-### 7. Seven
+### 6. admin registration
 ![Seven](screenshots/seven.png)
 
-### 8. Eight
-![Eight](screenshots/eight.png)
-
-### 9. Nine
+### 7. add new product
 ![Nine](screenshots/nine.png)
 
-### 10. Ten
-![Ten](screenshots/ten.png)
-
-### 11. Eleven
+### 8. fetch all the categories
 ![Eleven](screenshots/eleven.png)
-
-### 12. Twelve
-![Twelve](screenshots/twelve.png)
