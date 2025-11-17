@@ -68,3 +68,42 @@ JWT_SECRET=<any_secret_key>
 Frontend: http://localhost:3000
 Admin Panel (login required): http://localhost:3000/admin/products
 ```
+
+
+## Screenshots
+
+### 1. One
+![One](screenshots/one.png)
+
+### 2. Two
+![Two](screenshots/two.png)
+
+### 3. Three
+![Three](screenshots/three.png)
+
+### 4. Four
+![Four](screenshots/four.png)
+
+### 5. Five
+![Five](screenshots/five.png)
+
+### 6. Six
+![Six](screenshots/six.png)
+
+### 7. Seven
+![Seven](screenshots/seven.png)
+
+### 8. Eight
+![Eight](screenshots/eight.png)
+
+### 9. Nine
+![Nine](screenshots/nine.png)
+
+### 10. Ten
+![Ten](screenshots/ten.png)
+
+### 11. Eleven
+![Eleven](screenshots/eleven.png)
+
+### 12. Twelve
+![Twelve](screenshots/twelve.png)
